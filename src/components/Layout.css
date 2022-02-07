@@ -2,7 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-#react-burger-menu-btn{
-    right: 0;
-    
+body {
+  overflow-x: hidden;
 }
+
