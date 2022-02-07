@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#react-burger-menu-btn{
+    right: 0;
+    
+}
